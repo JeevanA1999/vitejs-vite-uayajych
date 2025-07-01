@@ -59,12 +59,3 @@ npm install
 # 3. Start the development server
 npm start
 ```
-
-src/
-│
-├── components/ # Reusable components
-├── pages/ # Page views (Dashboard, Team, Invoices, etc.)
-├── theme/ # MUI theme config
-├── assets/ # Static files (images, icons, etc.)
-├── App.js # Main app component with routes
-└── index.js # Application entry point
