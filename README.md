@@ -33,7 +33,7 @@ An interactive and modern **Admin Dashboard** built with **React**, **Material U
 
 ## 📸 Screenshots
 
-_Add screenshots of your dashboard here for a visual preview._
+![Dashboard Preview](./Downloads/dashboard.png)
 
 ---
 
